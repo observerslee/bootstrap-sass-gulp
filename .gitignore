@@ -1,0 +1,15 @@
+archive
+.sass-cache
+bootstrap.css
+bootstrap-responsive.css
+
+# Ignore bundler config
+/.bundle
+/vendor/cache
+/vendor/bundle
+tmp/
+test/screenshots/
+test/dummy_rails/log/*.log
+test/dummy_rails/public/assets/
+.DS_Store
+node_modules
