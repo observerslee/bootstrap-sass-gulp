@@ -124,9 +124,7 @@ gulp.task('copy:license', function () {
 
 gulp.task('copy:main.css', function () {
 
-    var banner = '/*! HTML5 Boilerplate v' + pkg.version +
-                    ' | ' + pkg.license.type + ' License' +
-                    ' | ' + pkg.homepage + ' */\n\n';
+    var banner = '/*! bootstrap-sass-gulp' + pkg.version;
 
     return gulp.src(dirs.src + '/css/main.css')
                .pipe(plugins.header(banner))

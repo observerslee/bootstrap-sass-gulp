@@ -31,12 +31,7 @@
       "test": "test"
     }
   },
-  "homepage": "https://html5boilerplate.com/",
-  "license": {
-    "type": "MIT",
-    "url": "https://github.com/h5bp/html5-boilerplate/blob/master/LICENSE.txt"
-  },
-  "name": "html5-boilerplate",
+  "name": "bootstrap-sass-gulp",
   "private": true,
   "scripts": {
     "build": "gulp build",
