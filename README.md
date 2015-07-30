@@ -15,10 +15,7 @@ Basic set-up requirements
 ## Usage
 
 1. download the package
-2. download [bootstrap-sass](https://github.com/twbs/bootstrap-sass)
-3. download [FontAwesome](http://fortawesome.github.io/Font-Awesome/)
 4. run `npm install`
-5. put entire bootstrap-sass and FontAwesome in `/src/vendors/` 
 6. run `gulp` in console for development
 7. run `gulp build` for final distribution
 
